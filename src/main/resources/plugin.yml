@@ -1,0 +1,10 @@
+name: AntiMagicGrimoire
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Asta-inspired anti-magic abilities, grimoire menu, and demon union transformation.
+commands:
+  grimorio:
+    description: Opens your anti-magic grimoire.
+    usage: /grimorio
+    aliases: [grimoire]
